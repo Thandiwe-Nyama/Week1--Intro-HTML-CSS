@@ -21,3 +21,15 @@ It also ensure that all articles headlines share the same type, h2 which crucial
 
 HTML Bold and Italics
 In bold and italics we have four HTML elements, two bld and two for italics. In HTML we use <i> to wrap the word <em> tags and <i>.
+To wrap the word<em> tags and <i>.
+
+HTML LISTS.
+lists are a part of our daily lifes.
+we do lists for certain things for example wish lists and also use lists for internet and they look like traditional lists.
+in HTML there are three types of lista: unordered lists, ordered lists and defunition lists.
+unordered list are the mostly commonly used type. e.g recipe.
+Each item is enclosed in an <li> element.
+We wrap up all items in a <ul> element, which stands for an unordered lists.
+Ordered lists are similar to the unordered lists but with slight difference.
+In ordered lists instead of using <ul> to wrap the list items, we use <ol>.
+The item  "ol" stands for ordered lists that indicate a specific order to the items on the list.
